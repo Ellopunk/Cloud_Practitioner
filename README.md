@@ -60,3 +60,21 @@ According to AWS this exam enables individuals with an overall understanding of 
 
 ## Helpful links
 - [Project Omega 2](https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html)
+
+## Meetup
+
+- [Passing the AWS Cloud Practitioner Exam](https://www.meetup.com/jupiterbroadcasting/events/262584571/)
+- [August 14th AWS Study Group](https://www.meetup.com/jupiterbroadcasting/events/263214097/) 
+
+## Twitch 
+
+- [Study Corner](studycorner.live)
+- [Scheduled Events](events.studycorner.live) 
+
+
+## Twitter
+
+* [Ell- @ell_o_punk](https://twitter.com/Ell_o_Punk)
+* [Christophe- @christophelimp](https://twitter.com/christophelimp)
+* [Jupiter Broadcasting - jupitersignal)](https://twitter.com/jupitersignal)
+* [Linux Academy - @linuxacademyCOM](https://twitter.com/linuxacademyCOM)
