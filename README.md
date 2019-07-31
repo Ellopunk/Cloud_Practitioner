@@ -44,9 +44,6 @@ According to AWS this exam enables individuals with an overall understanding of 
   - 4.3Identify resources available for billing support
   
   
-  
-  
-  
  ## Schedule exam
  
  - https://www.aws.training/certification?src=practitioner
@@ -54,9 +51,11 @@ According to AWS this exam enables individuals with an overall understanding of 
 ## Document Order
 
 - [about.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/about.md) - the document you are reading now 
-- [amiready.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/amiready.md)- Wanting to jump right in to the study group but not sure you are ready. Go through this document and make sure you know AWS basic concepts. Still unsure take an hour out of your day and watch [AWS Concepts at Linux Academy.](https://linuxacademy.com/cp/modules/view/id/84?)
-- [schedule.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/schedule.md)- Want to know when the next study group meeting will be check here! 
-- [week1.md](https://github.com/JupiterBroadcasting/CommunityNotes/blob/master/Cloud_Practitioner/week1.md) - General notes for week 1. Please clone and contribute! 
+- [awsconcepts.md](https://github.com/Ellopunk/Cloud_Practitioner/blob/master/awsconcepts.md)- Wanting to jump right in to the study group but not sure you are ready. Go through this document and make sure you know AWS basic concepts. Still unsure take an hour out of your day and watch [AWS Concepts at Linux Academy.](https://linuxacademy.com/cp/modules/view/id/84?)
+- [schedule.md](https://github.com/Ellopunk/Cloud_Practitioner/blob/master/schedule.md)- Want to know when the next study group meeting will be check here! 
+- [additional_resources.md](https://github.com/Ellopunk/Cloud_Practitioner/blob/master/additional_resources.md) Notes from week 1 meeting along with first weeks homework. 
+-[cloud_practitioner_exam_study_group_1.pdf](https://github.com/Ellopunk/Cloud_Practitioner/blob/master/cloud_practitioner_exam_study_group_1.pdf) week 1 slides
+
 
 ## Helpful links
 - [Project Omega 2](https://interactive.linuxacademy.com/diagrams/ProjectOmega2.html)
@@ -70,6 +69,7 @@ According to AWS this exam enables individuals with an overall understanding of 
 
 - [Study Corner](studycorner.live)
 - [Scheduled Events](events.studycorner.live) 
+- [Week 1 Study Group Video](https://www.twitch.tv/videos/460607570)
 
 
 ## Twitter
