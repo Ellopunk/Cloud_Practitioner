@@ -1,5 +1,5 @@
 # Cloud_Practitioner
-Info for the Linux Academy AWS Cloud Practitioner Study group! 
+Info for the Linux Academy AWS Cloud Practitioner Study group! Looking to watch our stream? http://studycorner.live
 
 ## About The Study Group 
 
