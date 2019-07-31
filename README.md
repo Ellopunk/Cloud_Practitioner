@@ -76,5 +76,5 @@ According to AWS this exam enables individuals with an overall understanding of 
 
 * [Ell- @ell_o_punk](https://twitter.com/Ell_o_Punk)
 * [Christophe- @christophelimp](https://twitter.com/christophelimp)
-* [Jupiter Broadcasting - jupitersignal)](https://twitter.com/jupitersignal)
+* [Jupiter Broadcasting - @jupitersignal](https://twitter.com/jupitersignal)
 * [Linux Academy - @linuxacademyCOM](https://twitter.com/linuxacademyCOM)
